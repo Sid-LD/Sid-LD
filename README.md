@@ -7,8 +7,14 @@ Email Me 👉 ✉️ **siddhantroy2006@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** Full stack development with GenAI along with honing my problem problem skills.
 - 👯 **I’m looking to collaborate on:** full-stack or GenAI side projects
 - 💬 **Ask me about:** DSA,competitive programming, real-time systems (WebSockets/Socket.IO)
+- 🎨 **Hobbies:** Chess, Badminton, Competitive Programming
 - 📫 **How to reach me:** siddhantroy2006@gmail.com
 - ⚡ **Fun fact:**  900+ DSA problem solved and still can't stop opening a new problem at 2 AM
+
+
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl0OW95NXJwbWwxbXUwdzA3ZHZ5MnlxMHlkMHlxbHlvb2VnZjM4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="420"/>
+</p>
 
 
 ## 🌐 Socials:
@@ -55,6 +61,20 @@ Email Me 👉 ✉️ **siddhantroy2006@gmail.com** For Collaboration/Project or 
 ![](https://github-readme-stats.shion.dev/api?username=Sid-LD&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sid-LD&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sid-LD&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 💭 Developer Philosophy
+
+```cpp
+while (alive)
+{
+    Learn();
+    Build();
+    Break();
+    Debug();
+    Improve();
+    Repeat();
+}
+```
 
 
 
