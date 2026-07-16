@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Siddhant Roy
-**Third-year ECE student at MNNIT Allahabad | Full-stack + Competitive Programmer | Exploring GenAI
+Third-year ECE student at MNNIT Allahabad | Full-stack + Competitive Programmer | Exploring GenAI
 
 Email Me 👉 ✉️ **siddhantroy2006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -18,6 +18,35 @@ Email Me 👉 ✉️ **siddhantroy2006@gmail.com** For Collaboration/Project or 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Coding Profiles
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="60"/><br>
+      <b>LeetCode</b><br>
+      <a href="https://leetcode.com/PtPh1gV1og">@Siddhant Roy</a><br>
+      <img src="https://leetcard.jacoblin.cool/PtPh1gV1og?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://codeforces.org/s/0/favicon-32x32.png" width="60"/><br>
+      <b>CodeForces</b><br>
+      <a href="https://codeforces.com/profile/SiddhantRoy07452">Siddhant Roy</a><br>
+      <img src="https://img.shields.io/badge/dynamic/json?labelColor=1F8ACB&color=FFA116&label=Rating&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DMoksh-Jain-2212&logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://avatars.githubusercontent.com/u/11960354?s=280&v=4" width="60"/><br>
+      <b>CodeChef</b><br>
+      <a href="https://www.codechef.com/users/aloft_whirl_43">@Siddhant-Roy</a><br>
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 # 💻 Tech Stack:
